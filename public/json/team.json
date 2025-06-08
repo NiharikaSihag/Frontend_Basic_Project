@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Courtney Henry",
+      "position": "Development Manager",
+      "image": "https://i.postimg.cc/q7S8jxcq/team-img1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Jerome Bell",
+        "position": "Software Tester",
+        "image": "https://i.postimg.cc/4NWHW1sG/team-img2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Arlene McCoy",
+        "position": "Software Developer",
+        "image": "https://i.postimg.cc/fbmLQ7nJ/team-img3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jenny Wilson",
+        "position": "UI/UX Designer",
+        "image": "https://i.postimg.cc/x1bjLGdt/team-img4.jpg"
+    }
+  ]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "image":"https://i.postimg.cc/Hk0xfs9m/service-img1.jpg",
+        "title":"2024 BMW ALPINA XB7 with exclusive…",
+        "p": "Aliquam hendrerit sollicitudin purus, quis rutrum mi accumsan nec."
+    },
+    {
+        "id": 2,
+        "image":"https://i.postimg.cc/7hb9WRvv/service-img2.jpg",
+        "title":"BMW X6 M50i is designed to exceed your…",
+        "p": "Aliquam hendrerit sollicitudin purus, quis rutrum mi accumsan nec."
+    },
+    {
+        "id": 3,
+        "image":"https://i.postimg.cc/rw2G1sp2/service-img3.jpg",
+        "title":"BMW X5 Gold 2024 Sport Review: Light o…",
+        "p": "Aliquam hendrerit sollicitudin purus, quis rutrum mi accumsan nec."
+    }
+]

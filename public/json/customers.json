@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Great Work ",
+        "description": "“Amazing design, easy to customize and a design quality superlative account on its cloud platform for the optimized performance. And we didn’t on our original designs.”",
+        "image": "https://i.postimg.cc/1t5nMzqH/cust-img1.jpg ",
+        "name": "Leslie Alexander ",
+        "designation": "FaceBook "  
+    },
+    {
+        "id": 2,
+        "title": "Awesome Design ",
+        "description": "“Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium cupiditate ab quos velit voluptate quaerat quidem temporibus, maxime, impedit eius praesentium eligendi.” ",
+        "image": "https://i.postimg.cc/Y0LSyLq1/cust-img2.jpg ",
+        "name": "Floyd Miles ",
+        "designation": "Designer "  
+    },
+    {
+        "id": 3,
+        "title": "Good Job ",
+        "description": "“But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system maxime, impedit eius praesentium” ",
+        "image": "https://i.postimg.cc/2jgdj4vN/cust-img3.jpg ",
+        "name": "Dianne Russell ",
+        "designation": "Marketing "  
+    },
+    {
+        "id": 4,
+        "title": "Perfection ",
+        "description": "“Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium cupiditate ab quos velit voluptate quaerat quidem temporibus, maxime, impedit eius praesentium eligendi.” ",
+        "image": "https://i.postimg.cc/1t5nMzqH/cust-img1.jpg ",
+        "name": "Miliya Smith ",
+        "designation": "UI/UX"  
+    },
+    {
+        "id": 5,
+        "title": "Great Management ",
+        "description": "“Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium cupiditate ab quos velit voluptate quaerat quidem temporibus, maxime, impedit eius praesentium eligendi.” ",
+        "image": "https://i.postimg.cc/2jgdj4vN/cust-img3.jpg ",
+        "name": "Krith Rehl",
+        "designation": "Google"  
+    }
+]

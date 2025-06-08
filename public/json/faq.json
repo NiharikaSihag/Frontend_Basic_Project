@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "question": "What types of cars do you offer?",
+        "answer":"We offer a wide range of vehicles, including sedans, SUVs, trucks, electric vehicles, and sports cars from top manufacturers."
+    },
+    {
+        "id": 2,
+        "question": "Do you provide both new and used cars? ",
+        "answer":"Yes, we have a selection of both brand-new and certified pre-owned vehicles to meet different budgets and needs. "
+    },
+    {
+        "id": 3,
+        "question": "Can I schedule a test drive? ",
+        "answer":"Absolutely! You can book a test drive online or visit our dealership to experience your preferred vehicle in person. "
+    },
+    {
+        "id": 4,
+        "question": "Do you offer financing options? ",
+        "answer":"Yes, we provide flexible financing options through our partnered banks and lenders to help you get the best deal. "
+    },
+    {
+        "id": 5,
+        "question": "Can I trade in my current vehicle? ",
+        "answer":"Yes, we offer trade-in services. You can get an estimate online or bring your car in for an appraisal. "
+    },
+    {
+        "id": 6,
+        "question": "Do you offer lease options? ",
+        "answer":"Yes, we provide lease plans for those who prefer lower monthly payments and the ability to upgrade their vehicle every few years. "
+    },
+    {
+        "id": 7,
+        "question": "Do you offer vehicle servicing and repairs? ",
+        "answer":"Yes, our certified service center provides routine maintenance, repairs, and genuine parts replacements. "
+    },
+    {
+        "id": 8,
+        "question": "How often should I service my car? ",
+        "answer":"It depends on the manufacturer’s recommendations, but we generally suggest servicing your car every 5,000 to 7,500 miles. "
+    }
+]

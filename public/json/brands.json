@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "Audi",
+      "image": "https://i.postimg.cc/htjKdZgk/audi-logo.jpg"
+    },
+    {
+        "id": 2,
+        "title": "BMW",
+        "image": "https://i.postimg.cc/1XDx07Ks/bmw-logo.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Ford",
+        "image": "https://i.postimg.cc/MpqDp3MV/ford-logo.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Mercedez Benz",
+        "image": "https://i.postimg.cc/HLMgzLzQ/benz-logo.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Peugeot",
+        "image": "https://i.postimg.cc/jjdYPh9J/peugeot-logo.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Volkswagon",
+        "image": "https://i.postimg.cc/8Cn9WgMq/volks-logo.jpg"
+    }
+  ]
+  
