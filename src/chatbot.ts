@@ -37,7 +37,7 @@ if (!chatbox || !chatInput || !sendMessageButton) {
   console.error("Chatbox, chatInput, or sendMessageButton elements not found.");
 }
 
-const API_KEY = "AIzaSyB4nFcgHj0Pwi0EZSV-LOfSBAsR7L6TbgA";
+const API_KEY = "";
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key=${API_KEY}`;
 
 async function sendMessage(): Promise<void> {
